@@ -1,3 +1,5 @@
+# 1.1.1
+- Sửa lỗi chạy server online
 # 1.1.0 [ HOT FIX 🔥]
 - Sửa lỗi chạy server
 - Sủa lỗi tự động đăng nhập
