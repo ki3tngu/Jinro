@@ -1,3 +1,6 @@
+# 1.1.2
+- Sửa lỗi xử lý dữ liệu người chơi
+- Cải thiện hệ thống cập nhật phiên bản
 # 1.1.1
 - Sửa lỗi chạy server online
 - Sửa lỗi khi nhập cấu hình cổng
