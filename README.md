@@ -1,3 +1,7 @@
+# 1.2.0
+- Thêm tạo tài khoản trong menu
+- Sửa lỗi chạy online
+- Cải thiện đề xuất sửa lỗi
 # 1.1.2
 - Sửa lỗi xử lý dữ liệu người chơi
 - Cải thiện hệ thống cập nhật phiên bản
