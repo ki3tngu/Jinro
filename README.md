@@ -1,3 +1,6 @@
+# 1.2.1
+- Sửa lỗi và thêm tùy chọn chạy online bằng ngrok
+- Cho phép dùng thử server với giới hạn thời gian
 # 1.2.0
 - Thêm tạo tài khoản trong menu
 - Sửa lỗi chạy online
